@@ -1,6 +1,6 @@
 # End-to-End ML Pipeline for Financial Transaction Fraud Detection
 
-> **Live app** → Deploy your own: `streamlit run app.py` (or deploy free on [Streamlit Community Cloud](https://share.streamlit.io))
+> **Live app** → https://fraud-detection-system-by2sc3a5ndv2ajslkx2cdm.streamlit.app/
 >
 > **Dataset** → PaySim Mobile Money Simulation (Kaggle) — IEEE-CIS Fraud Detection alternative
 
