@@ -126,14 +126,6 @@ The app loads `fraud_model.pkl` + `feature_names.pkl` automatically. If they are
 
 * * *
 
-## 🌐 Deploying to Streamlit Community Cloud (free)
-
-1. Push this repo to your GitHub account.
-2. Go to [share.streamlit.io](https://share.streamlit.io) → **New app**.
-3. Select your repo, set main file to `app.py`, click **Deploy**.
-4. The app links back to `https://github.com/Dev-9913/fraud-detection-system` automatically.
-
-* * *
 
 ## 🔍 Key Technical Decisions
 
